@@ -68,13 +68,4 @@ for animal in [Dog("Buddy"), Fish("Nemo")]:
 
 ---
 
-**⚠️ Note**: Submitted for **PLP Week 5** assignment at [Your University/Program Name].  
-```
-
----
-
-### Why This Works for PLP:  
-1. **Academic Tone**: Matches assignment submission standards.  
-2. **Structured Documentation**: Clearly separates both tasks.  
-3. **Search-Friendly**: Includes "PLP Week 5" for easy reference.  
-4. **Visual Aids**: Tables and emojis improve readability.  
+*** Note**: Submitted for **PLP Week 5** assignment at PLP.  
